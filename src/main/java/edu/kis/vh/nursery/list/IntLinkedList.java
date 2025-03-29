@@ -43,9 +43,7 @@ public class IntLinkedList {
 		return value;
 	}
 
-	private void setValue(int value) {
-		this.value = value;
-	}
+
 
 	private Node getLast() {
 		return last;

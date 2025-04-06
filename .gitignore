@@ -1,0 +1,8 @@
+/target/
+/.idea/
+/bin/
+*.iml
+*.class
+*.log
+# Ignoruj ustawienia Eclipse
+.settings/
